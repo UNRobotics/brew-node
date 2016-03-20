@@ -5,8 +5,8 @@ Created by UN Robotics at the University of Nebraska-Omaha in conjunction with t
 
 Note: Any Raspberry Pi running this code will require the I2C libraries installed and kernel modules loaded. To do this run
 ````
-    sudo apt-get install python-smbus
-    sudo apt-get install i2c-tools
+sudo apt-get install python-smbus
+sudo apt-get install i2c-tools
 ````
 and then enable via 
 ````
